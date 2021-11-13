@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Climate Cottage"
+title:  "Cottage"
 date:   2021-11-08 23:25:00 +0100
 categories: architecture
 permalink: /cottage

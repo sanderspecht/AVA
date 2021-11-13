@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rack & Pinion Wave Energy Converter"
+title:  "Rack & Pinion (wave energy converter)"
 date:   2021-11-08 23:17:00 +0100
 categories: waves
 permalink: /waveenergy

@@ -22,7 +22,7 @@ title: △▽△
 email: sander.specht@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   AVA tech is a multidisciplinary design studio that develops tecnological solutions in response to the biodiversity, climate, and groundwater crises.
-baseurl: "/AVA" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -31,8 +31,9 @@ theme: minima
 #   - jekyll-feed
 
 markdown: kramdown
+
+
 defaults:
-    -
         scope:
             path: ""
             type: "posts"
