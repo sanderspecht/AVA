@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Climate Cottage"
+date:   2021-11-08 23:25:00 +0100
+categories: architecture
+permalink: /cottage
+---
+A small house on high stilts in the treetops in the middle of nature, only accessible on foot, without water and electricity. Greatest possible nature experience in the middle of nature, with a view of the landscape. No distractions. Located on former agricultural land, which has been converted into nature and which is located close to natural areas. Prefabricated as different types:
+
+- "Climate Cottage": A small cottage on high stilts that so it does not disturb the surrounding nature.
+- "Climate camping": A "floating" perforated platform on narrow posts. The perforation allows you to pitch your own tent high in the air.
+
+A group of "floating" structures may provide Nature Hotel with cabins and common areas on stilts connected by footbridges.
