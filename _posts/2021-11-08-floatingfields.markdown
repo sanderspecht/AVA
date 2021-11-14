@@ -1,9 +1,9 @@
 ---
-layout: post
 title:  "Floating fields  (wave energy converter)"
 date:   2021-11-08 22:00:00 +0100
 categories: waves
 permalink: floatingfields
+image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_223043.jpg
 ---
 AVA Floating Fields and Wave Energy Converter (electromechanical solution):
 * Interconnected equilateral triangular pyramids (aka. regular tetrahedrons) float on water and are moved by waves. The top of each pyramid has three degrees of freedom: it can move up and down (elevating/heaving), tilt forward and backward (pitching); and pivot side to side (rolling). Being fixed to other pyramids, however, each pyramid top is prohibited from moving left and right (strafing/swaying); moving forward and backward (walking/surging); and from swiveling left and right (yawing)
@@ -19,7 +19,9 @@ When waves move the pyramids, the gear racks are either pushed or pulled, turnin
 
 ![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_222607.jpg)
 
-![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_223043.jpg)
+![]({{ page.image | relative_url }})
+
+<!-- ![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_223043.jpg) -->
 
 ![tooltip](https://github.com/sanderspecht/AVA/blob/AVA/_assets/img/IMG_20211017_125631.jpg)
 

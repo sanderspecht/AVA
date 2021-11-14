@@ -1,13 +1,16 @@
 ---
-layout: post
 title:  "Rack & Pinion (wave energy converter)"
 date:   2021-11-08 23:17:00 +0100
 categories: waves
-permalink: /waveenergy
+permalink: /rackandpinion
+keywords: [sander specht, AVA, AVA tech, AVA technology, AVA solutions, WEC, wave energy, wave energy converter]
+image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211101_231757.jpg
 ---
 This electromechanical design involves a multitude of meterlong racks with buoys at the end, which are moved up and down by waves. Each racks turns a pinion, which .... Flywheel that smoothens out fluctuations in the energy input --> One generator
 
-![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211101_231757.jpg)  
+![]({{ page.image | relative_url }})
+
+<!-- ![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211101_231757.jpg)   -->
 
 
 ![tooltip](https://www.linearmotiontips.com/wp-content/uploads/2019/05/Related-post-Designing-seventh-axis-linear-motion-tracks-for-robotic-positioning-e1558527664151.jpg)

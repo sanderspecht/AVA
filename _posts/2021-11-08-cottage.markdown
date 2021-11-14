@@ -1,9 +1,9 @@
 ---
-layout: post
 title:  "Cottage"
 date:   2021-11-08 23:25:00 +0100
 categories: architecture
 permalink: /cottage
+image: https://media.tourispo.com/images/ecu/entity/e_sight/sight_treetop-walk-neckertal-mogelsberg_n72881-156419-1_l.jpg
 ---
 A small house on high stilts amidst the treetops, leaving the ground untouched and the sky within your reach.
 
@@ -12,4 +12,6 @@ Different types:
 * "Camping": A "floating" perforated platform on narrow posts. A perforated floor allows you to pitch your own tent high up in the air.
 * "Hotel": A group of "floating" structures may provide Nature Hotel with cabins and common areas on stilts connected by footbridges as illustrated below:
 
-![image tooltip here](https://media.tourispo.com/images/ecu/entity/e_sight/sight_treetop-walk-neckertal-mogelsberg_n72881-156419-1_l.jpg)
+![]({{ page.image | relative_url }})
+
+<!-- ![image tooltip here](https://media.tourispo.com/images/ecu/entity/e_sight/sight_treetop-walk-neckertal-mogelsberg_n72881-156419-1_l.jpg) -->
