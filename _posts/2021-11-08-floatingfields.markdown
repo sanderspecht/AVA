@@ -13,6 +13,24 @@ When waves move the pyramids, the gear racks are either pushed or pulled, turnin
 * The DC travels through a DC voltage regulator and is adjusted to a similar level. It then enters the series circuit with power from the other generators, whereby the total voltage increases.
 * The power is then transmitted into either batteries or a cable
 
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211016_145235.jpg)
+
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211016_150357.jpg)
+
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_222607.jpg)
+
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_223043.jpg)
+
+![tooltip](https://github.com/sanderspecht/AVA/blob/AVA/_assets/img/IMG_20211017_125631.jpg)
+
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211017_194211.jpg)
+
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211021_214352.jpg)
+
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211022_002629.jpg)
+
+
+
 ![image tooltip](https://studio404.asia/wp-content/uploads/2020/08/sea.png)
 
 Similar idea: https://studio404.asia/floating-fields/
