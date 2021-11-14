@@ -6,8 +6,9 @@ permalink: /apparel
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/1.jpeg
 ---
 
-A new type of clothing design made of a mesh of equilateral triangles in a sustainable material such as mycelium "leather". Here's a similar yet different example:
+Imagine biofabricated clothing made from mycelium (mushrooms). Then imageine a material consisting of numerous small plates of equilateral triangles. Finally, imagine a modular design, where a shirt or a skirt can be disassembled and reassembled by the wearer, so a new design is accomplished without discarding old clothes. That is our vision for the garments of the near future.
 
+Here's a similar yet different design made with wooden plates:
 ![]({{ page.image | relative_url }})
 
 ![image tooltip here](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/2.jpeg)

@@ -1,12 +1,12 @@
 ---
-title:  "Rack & Pinion (wave energy converter)"
+title:  "Rack & Pinion wave energy"
 date:   2021-11-08 23:17:00 +0100
 categories: waves
 permalink: /rackandpinion
 keywords: [sander specht, AVA, AVA tech, AVA technology, AVA solutions, WEC, wave energy, wave energy converter]
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211101_231757.jpg
 ---
-This electromechanical design involves a multitude of meterlong racks with buoys at the end, which are moved up and down by waves. Each racks turns a pinion, which .... Flywheel that smoothens out fluctuations in the energy input --> One generator
+This wave energy converter design involves numerous meterlong racks with buoys at the end, which are moved up and down by waves. Each racks turns a pinion, which is conniected to a central flywheel. The flywheel smoothens out fluctuations in the energy input from the waves and provides steady electricity that is produced in a generator and then carried to land via subsea cables.
 
 ![]({{ page.image | relative_url }})
 
