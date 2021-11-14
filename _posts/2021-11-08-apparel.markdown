@@ -5,7 +5,7 @@ date:   2021-11-08 23:50:00 +0100
 categories: apparel
 permalink: /apparel
 ---
-Clothing design consisting of triangles of sustainable material
+A new type of clothing design made of a mesh of equilateral triangles in a sustainable material such as mycelium "leather". Here's a similar yet different example:
 
 ![image tooltip here](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/1.jpeg)
 

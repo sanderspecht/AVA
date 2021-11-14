@@ -29,7 +29,7 @@ When waves move the pyramids, the gear racks are either pushed or pulled, turnin
 
 ![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211022_002629.jpg)
 
-
+![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211107_165913.jpg)
 
 ![image tooltip](https://studio404.asia/wp-content/uploads/2020/08/sea.png)
 
