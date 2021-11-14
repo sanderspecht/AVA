@@ -20,9 +20,10 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"
+          <a class="blog-roll-image" href="{{ post.url | relative_url }}">
+            <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+          </a>
         </h3>
-        <br><br>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
