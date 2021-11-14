@@ -12,3 +12,7 @@ When waves move the pyramids, the gear racks are either pushed or pulled, turnin
 *  A shaft on each circular gear connects it to a 3-phase AC generator. The back-and-forth spin of the 3-phase AC generator creates unpredictable levels of alternating current (AC) with changing polarity. Therefore, the AC from different generators cannot be synchronized and combined. Instead, the AC is converted into direct-current (DC), as this can be equalized and then put into a series with other power sources to increase the total voltage. To do this, the AC travels through a three phase bridge rectifier diode, which converts the 3-phase AC input into a direct-current (DC) output.
 * The DC travels through a DC voltage regulator and is adjusted to a similar level. It then enters the series circuit with power from the other generators, whereby the total voltage increases.
 * The power is then transmitted into either batteries or a cable
+
+![image tooltip](https://studio404.asia/wp-content/uploads/2020/08/sea.png)
+
+Similar idea: https://studio404.asia/floating-fields/

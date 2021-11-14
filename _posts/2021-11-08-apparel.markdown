@@ -7,4 +7,6 @@ permalink: /apparel
 ---
 Clothing design consisting of triangles of sustainable material
 
-![image tooltip here](/assets/img/2.jpeg)
+![image tooltip here](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/1.jpeg)
+
+![image tooltip here](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/2.jpeg)
