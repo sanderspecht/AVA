@@ -1,5 +1,5 @@
 ---
-title:  "Rack & Pinion wave energy"
+title:  "Rack & Pinion WEC"
 date:   2021-11-08 23:17:00 +0100
 categories: waves
 permalink: /rackandpinion

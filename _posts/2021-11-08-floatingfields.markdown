@@ -1,12 +1,12 @@
 ---
-title:  "Floating fields mariculture"
+title:  "Floating fields WEC"
 date:   2021-11-08 22:00:00 +0100
 categories: waves
 permalink: floatingfields
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_223043.jpg
 ---
 
-Imagine a floating field that can be used for saltwater agriculture (halophytes, seaweed, kelp, fish, and shellfish), while it may also ber able to produce its own electrical energy from the waves under it.
+Imagine a floating field that can be used for saltwater agriculture (halophytes, seaweed, kelp, fish, and shellfish), while it is also be able to produce its own electrical energy from the waves under it.
 
 The design consists of interconnected equilateral triangular pyramids (aka. regular tetrahedrons) that float on water and are moved by waves. The triangular design, by the way, provided the name for this studio.
 
