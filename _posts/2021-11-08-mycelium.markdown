@@ -1,8 +1,9 @@
 ---
-title:  "Apparel"
+title:  "Mycelium"
 date:   2021-11-08 23:50:00 +0100
-categories: apparel
-permalink: /apparel
+categories: Apparel
+keywords: Apparel
+permalink: /mycelium
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/1.jpeg
 ---
 

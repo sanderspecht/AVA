@@ -1,11 +1,12 @@
 ---
-title:  "Cottage"
+title:  "Nest"
 date:   2021-11-08 23:25:00 +0100
-categories: architecture
-permalink: /cottage
+categories: Architecture
+keywords: Architecture
+permalink: /nest
 image: https://media.tourispo.com/images/ecu/entity/e_sight/sight_treetop-walk-neckertal-mogelsberg_n72881-156419-1_l.jpg
 ---
-Imagine a small house on high stilts amidst the treetops that leaves the forest floor untouched, and still allows for sunlight below while getting direct light and warmth that reduces the need for energy.
+Imagine a small house on high stilts amidst the treetops that leaves the forest floor untouched, and still allows for sunlight below while getting direct light and warmth that reduces the need for energy. The perfect nest.
 
 Different types:
 * **Cottage:** A small cottage on high stilts that will not disturb the surrounding nature.

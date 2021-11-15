@@ -1,9 +1,10 @@
 ---
-title:  "naturjord"
-date:   2021-11-15 21:00:00 +0100
-categories: finance
+title: "naturjord"
+date: 2021-11-15 21:00:00 +0100
+categories: Marketplace
+keywords: Marketplace
 permalink: /naturjord
-image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord2.png
+image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png
 ---
 There are people all over the world who buy or lease land to cultivate it, but increasingly people also buy or lease land to *restore its nature*. Some are millionaires. Others are local enthusiasts, still others are foundations or environmental organisations. Imagine a marketplace that serves such a regenerative purpose, where aquisitions only can happen, if both parties sign an agreemnt to improve the nature quality upon the sale or the lease of the land. The marketplace is built around an open source geographical information system (OpenGIS), where anyone can seek out plots of farmland on a map, get in contact with the owner, do the paperwork (electronically), and complete the acquisition.
 
