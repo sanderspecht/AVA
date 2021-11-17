@@ -9,7 +9,7 @@ Mitigating climate change and protecting and restoring ecosystems is an opportun
 
 AVA tech is a team of people across disciplines who cannot help themselves from designing solutions that may counter biodiversity loss, climate change, and water scarcity.
 
-Our solutions currently range from wave energy converters and sustainable finance to architecture and sustainable clothing. There is no knowing which solution may come next.
+Our solutions currently range from wave energy converters and sustainable finance to architectural and apparel designs. There is no knowing which solution may come next.
 
 If you wish to join, comment, or learn more about us, please get in touch !
 

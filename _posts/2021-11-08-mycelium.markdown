@@ -2,12 +2,12 @@
 title:  "Mycelium"
 date:   2021-11-08 23:50:00 +0100
 categories: Apparel
-keywords: Apparel
+keywords: apparel
 permalink: /mycelium
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/1.jpeg
 ---
 
-Imagine biofabricated clothing made from mycelium (mushrooms). Then imageine a material consisting of numerous small plates of equilateral triangles. Finally, imagine a modular design, where a shirt or a skirt can be disassembled and reassembled by the wearer, so a new design is accomplished without discarding old clothes. That is our vision for the garments of the near future.
+Imagine biofabricated clothing made from mycelium (mushrooms) in a design consisting of numerous small plates of equilateral triangles attached to each other. Finally, imagine a modular design, where a shirt, a scarf, or a skirt can be disassembled and reassembled by the wearer, so a new design is accomplished without discarding the old clothes. That is our vision for the garments of the near future.
 
 Here's a similar yet different design made with wooden plates:
 ![]({{ page.image | relative_url }})
