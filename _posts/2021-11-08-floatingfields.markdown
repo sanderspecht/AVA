@@ -1,8 +1,8 @@
 ---
 title:  "Floating fields"
 date:   2021-11-08 22:00:00 +0100
-categories: Wave energy connverter
-keywords: wave energy connverter
+categories: Wave energy converter
+keywords: wave energy converter
 permalink: floatingfields
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211018_223043.jpg
 ---

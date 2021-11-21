@@ -1,8 +1,8 @@
 ---
 title:  "Rack & Pinion"
 date:   2021-11-08 23:17:00 +0100
-categories: Wave energy connverter
-keywords: wave energy connverter
+categories: Wave energy converter
+keywords: wave energy converter
 permalink: /rackandpinion
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211101_231757.jpg
 ---
