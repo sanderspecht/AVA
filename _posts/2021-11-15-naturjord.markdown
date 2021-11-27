@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturj
 ---
 AVA Visions has developed the marketplace [naturjord](https://naturjord.dk/), where farmers and landowners sell parcels of land to buyers who wish to restore nature in the area.
 
-Increasingly, people across the globe buy land not to cultivate it, but to *restore and preserve its nature*. Some are millionaires, others are local companies, still others are foundations or environmental organisations. Common for them all is the realization that nature is in crisis and is worth saving through smart and simple employment of capital.
+Increasingly, people across the globe buy land not to cultivate it, but to *restore and preserve its nature*. Some are millionaires, others are local companies, still others are foundations or environmental organisations. Common for them is the realization that nature is in crisis and that it is worth saving through the employment of capital.
 
 At the same time, farmers are interested in selling off parcels of land that are unsuitable for agriculture, e.g. carbon-rich lowland soils, sandy soils, or slopes.
 
@@ -26,7 +26,7 @@ The faster we accept that nature has been seized by man through property rights,
 
 ![Naturjord](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png)  
 
-  
+
 *Here's who will use the marketplace:*  
 * **Landowners** (typically farmers) use [naturjord](https://naturjord.dk/) to find tenants or buyers of land. The areas are typically outcrops near streams and forests with rich wildlife or sandy soil types, slopes, and lowland soils that provide low yields but are ideal for natural land.
 * **Non-profit foundations, companies, and private nature lovers** use [naturjord](https://naturjord.dk/) to buy large areas for nature restoration and nature protection.
