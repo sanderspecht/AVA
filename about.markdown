@@ -5,12 +5,10 @@ permalink: /about
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/noah-buscher-x8ZStukS2PM-unsplash.jpg
 ---
 
-Mitigating climate change and protecting and restoring ecosystems presents an opportunity for the world to set in motion a new development of creativity, imagination, and sustainable prosperity.
+AVA Visions is a multidisciplinary studio that designs ecological solutions. We believe that tackling biodiversity loss, climate change, and water scarcity represents a flourishing renaissance for humanity. Protecting and restoring ecosystems and mitigating climate change is an opportunity to set in motion a trajectory of creativity, imagination, and sustainable prosperity.
 
-AVA tech is a team of people across disciplines who cannot help themselves from designing solutions to counter biodiversity loss, climate change, and water scarcity.
+Our solutions currently range from sustainable finance and wave energy converters to architecture and sustainable apparel. There is no knowing which solution may come next !
 
-Our solutions currently range from wave energy converters and sustainable finance to architecture and apparel. There is no knowing which solution may come next.
-
-If you wish to join, comment, or learn more about us, please get in touch !
+If you wish to join, comment, or learn more about us, please get in touch
 
 ![]({{ page.image | relative_url }})
