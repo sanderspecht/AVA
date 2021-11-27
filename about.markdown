@@ -5,7 +5,7 @@ permalink: /about
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/noah-buscher-x8ZStukS2PM-unsplash.jpg
 ---
 
-AVA Visions is a multidisciplinary studio that designs ecological solutions. We believe that tackling biodiversity loss, climate change, and water scarcity represents a flourishing renaissance for humanity. Protecting and restoring ecosystems and mitigating climate change is an opportunity to set in motion a trajectory of creativity, imagination, and sustainable prosperity.
+AVA Visions is a multidisciplinary studio that designs ecological solutions. We believe that the need to tackle the planet's biodiversity loss, climate change, and water scarcity represents a renaissance for humanity. Rethinking human interaction with nature, protecting and restoring ecosystems, and mitigating climate change represents an unprecedented opportunity to set in motion a trajectory of creativity, imagination, and sustainable prosperity.
 
 Our solutions currently range from sustainable finance and wave energy converters to architecture and sustainable apparel. There is no knowing which solution may come next !
 
