@@ -32,7 +32,7 @@ In the interactive map each field has a colour that represents its level of suit
 **The idea behind**  
 The faster we accept that nature has been seized by man through property rights, the faster we can develop solutions that incentivize landowners to ensure biodiversity, protect habitats, protect the groundwater, and reduce CO2 emissions on *each and every* plot of land.  
 
-**Here's who will use the marketplace:**
+**Who can use the marketplace?**
 * *Landowners* (typically farmers) use [naturjord](https://naturjord.dk/) to find tenants or buyers of land. The areas are typically outcrops near streams and forests with rich wildlife or sandy soil types, slopes, and lowland soils that provide low yields but are ideal for natural land.
 * *Non-profit foundations, companies, and private nature lovers* use [naturjord](https://naturjord.dk/) to buy large areas for nature restoration and nature protection.
 * *Private investors, companies and private equity funds* use [naturjord](https://naturjord.dk/) to carry out sustainable investments in agriculture and forestry. When investing through [naturjord](https://naturjord.dk/), you legally undertake to lease the areas for either nature restoration or a transition to sustainable forestry or regenerative agriculture such as organic or extensive farming, typically grazing or mowing.
