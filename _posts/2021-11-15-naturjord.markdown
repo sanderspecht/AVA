@@ -17,7 +17,7 @@ At the same time, farmers are interested in selling off the small parcels of lan
 When selling or buying land on [naturjord](https://naturjord.dk/) the parties enter into a legal agreement that ensures a significant and lasting improvement of the nature of the land in question.
 
 **How does it work?**  
-Farmers and landowners can sell parcels of farmland in the marketplace, while potential buyers will be able to search for plots for sale in an interactive map developed in QGIS. Through this interface, potential buyers can evaluate specific fields' suitability for nature restoration, e.g. in terms of possible habitat restorations or CO2 reductions.
+Farmers and landowners can sell parcels of farmland in the marketplace, while potential buyers can search for plots for sale in an interactive map developed in QGIS. Through this interface, potential buyers can evaluate specific fields' suitability for nature restoration, e.g. in terms of possible habitat restorations or CO2 reductions.
 
 In the interactive map each field has a colour that represents its level of suitability for nature restoration. The colour scale is based on a weighted index consisting of the following factors:
 <ul>
