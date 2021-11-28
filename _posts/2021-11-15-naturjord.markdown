@@ -6,7 +6,7 @@ keywords: marketplace
 permalink: /naturjord
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png
 ---
-The marketplace [naturjord](https://naturjord.dk/) allows farmers and landowners to easily sell or exchange parcels of unsuitable farmland with the aim of restoring it to nature.
+The marketplace [naturjord](https://naturjord.dk/) allows farmers and landowners to easily sell or exchange parcels of unsuitable farmland with the aim of restoring natural processes and habitats.
 
 ![Naturjord](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png)  
 
@@ -17,20 +17,20 @@ At the same time, farmers are interested in selling off the small parcels of lan
 When exchanging land on [naturjord](https://naturjord.dk/) the parties enter into a legal agreement that ensures a significant and lasting improvement of the nature of the land in question.
 
 **How does it work?**  
-Farmers and landowners can put parcels of land up for sale or exchange in the marketplace, while potential buyers can search for land in an interactive map developed in QGIS. Through this interface, potential buyers can evaluate specific fields' suitability for nature restoration, e.g. in terms of possible habitat restorations or CO2 reductions.
+Farmers and landowners can put parcels of land up for sale or exchange in the marketplace, while potential buyers can search for land in an interactive map developed in QGIS. Through this interface, potential buyers can evaluate specific fields' suitability for nature restoration, e.g. in terms of possible habitat restorations or CO<sub>2</sub> reductions.
 
 In the interactive map each field has a colour that represents its level of suitability for nature restoration. The colour scale is based on a weighted index consisting of the following factors:
-<ul>
-  <li>bioscore (suitability as a habitat for endangered species),</li>
-  <li>peatlands (wetland critical for preventing and mitigating the effects of climate change, preserving biodiversity, minimising flood risk, and ensuring safe drinking water),</li>
-  <li>hydrology (surface waterm nitrate vulnerable zones, drinking water zones, distance to streams, ),</li>
-  <li>soil index,</li>
-  <li>and terrain.</li>
-</ul>
- This is then coupled with economic GIS data (ownership, land value, etc.). The end result is an interactive map that displays *exactly* which fields are the most suitable for nature restoration and the option to contact the owner.
+
+1. Bioscore <span class="greytext">(suitability as a habitat for endangered species)</span>
+1. Peatlands <span class="greytext">(natural wetlands that are critical for storing carbon, preserving biodiversity, minimising flood risk, and ensuring safe drinking water)</span>
+1. Hydrology <span class="greytext">(surface water, nitrate vulnerable zones, drinking water zones, distance to streams, etc.)</span>
+1. Soil <span class="greytext">(suitability for cultivation)</span>
+1. Terrain <span class="greytext">(suitability for cultivation)</span>
+
+ This data is then coupled with economic GIS data (ownership, land value, etc.). The end result is an interactive map that displays *exactly* which fields are the most suitable for nature restoration, the public value of the land, and a gateway to contact the owner.
 
 **The idea behind**  
-The faster we accept that nature has been seized by man through property rights, the faster we can develop solutions that incentivize landowners to ensure biodiversity, protect habitats, protect the groundwater, and reduce CO2 emissions on *each and every* plot of land.  
+The faster we accept that nature has been seized by man through property rights, the faster we can develop solutions that incentivize landowners to ensure biodiversity, protect habitats, protect the groundwater, and reduce CO<sub>2</sub> emissions on *each and every* plot of land.  
 
 **Who can use the marketplace?**
 * *Landowners* (typically farmers) use [naturjord](https://naturjord.dk/) to find tenants or buyers of land. The areas are typically outcrops near streams and forests with rich wildlife or sandy soil types, slopes, and lowland soils that provide low yields but are ideal for natural land.
