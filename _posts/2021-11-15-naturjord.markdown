@@ -33,5 +33,5 @@ This data is then coupled with economic GIS data (ownership, land value, etc.). 
 * *Landowners* (typically farmers) use [naturjord](https://naturjord.dk/) to find buyers of inefficient farmland. Such areas are typically outcrops near streams and forests with rich wildlife or peats, sandy soils, or slopes that provide low yields but often are ideal for nature.
 * *Non-profit foundations, companies, and private nature lovers* use [naturjord](https://naturjord.dk/) to buy land for nature restoration and nature protection.
 * *Private investors, companies and private equity funds* use [naturjord](https://naturjord.dk/) to carry out sustainable investments in agriculture and forestry. When investing through [naturjord](https://naturjord.dk/), you legally undertake to lease the areas for either nature restoration or a transition to sustainable forestry or regenerative agriculture such as organic or extensive farming, typically grazing or mowing.
-* *Tenants* may be organic farmers, sustainable foresters, hunters, self-sufficients, holiday home landlords, or associations that achieved in a sustainable way in compliance with the signed sales contract/tenancy agreement
-* Finally, *the public* will be able to (by law) to access all natural areas
+* *Tenants* may be organic farmers, sustainable foresters, hunters, self-sufficients, or associations that rent and use the natural area in a sustainable way in compliance with the signed sales contract/tenancy agreement.
+* Finally, *the public* will (by Danish law) be able to access all nature areas
