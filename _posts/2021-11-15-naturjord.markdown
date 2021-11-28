@@ -6,25 +6,25 @@ keywords: marketplace
 permalink: /naturjord
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png
 ---
-The marketplace [naturjord](https://naturjord.dk/) allows farmers and landowners to easily sell or exchange parcels of unsuitable farmland with the aim of restoring its nature.
+The marketplace [naturjord](https://naturjord.dk/) allows farmers and landowners to easily sell or exchange parcels of unsuitable farmland with the aim of restoring it to nature.
 
 ![Naturjord](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png)  
 
-Across the globe people increasingly buy land not to cultivate it, but to *restore and preserve its nature*. Some are millionaires, others are local groups, still others are foundations or environmental organisations. Common for them is the realization that nature is in crisis and that it is worth employing capital to save it.
+Across the globe people increasingly buy land not to cultivate it, but to *restore and preserve its nature*. Some are philanthropists, others are local citizen groups, still others are environmental foundations. Common for them is the realization that nature is in crisis and that it is worth employing capital to save it.
 
-At the same time, farmers are interested in selling off the small parcels of land that are unsuitable for agriculture, e.g. carbon-rich lowland soils, wetlands, sandy soils, or slopes. Coindidentaly, areas with low cultivation value often have high natural potential. In these areas, plants and animals will quickly appear completely without human intervention.
+At the same time, farmers are interested in selling off the small parcels of land that are unsuitable for agriculture, e.g. peatlands, sandy soils, or slopes. Coindidentaly, areas with low cultivation value typically have high natural potential. In these areas, plants and animals will quickly appear completely without human intervention.
 
-When selling or buying land on [naturjord](https://naturjord.dk/) the parties enter into a legal agreement that ensures a significant and lasting improvement of the nature of the land in question.
+When exchanging land on [naturjord](https://naturjord.dk/) the parties enter into a legal agreement that ensures a significant and lasting improvement of the nature of the land in question.
 
 **How does it work?**  
-Farmers and landowners can put parcels of land up for sale or exchange in the marketplace, while potential buyers can search for the plots in an interactive map developed in QGIS. Through this interface, potential buyers can evaluate specific fields' suitability for nature restoration, e.g. in terms of possible habitat restorations or CO2 reductions.
+Farmers and landowners can put parcels of land up for sale or exchange in the marketplace, while potential buyers can search for land in an interactive map developed in QGIS. Through this interface, potential buyers can evaluate specific fields' suitability for nature restoration, e.g. in terms of possible habitat restorations or CO2 reductions.
 
 In the interactive map each field has a colour that represents its level of suitability for nature restoration. The colour scale is based on a weighted index consisting of the following factors:
 <ul>
-  <li>biodiversity and habitats,</li>
-  <li>lowland soils,</li>
-  <li>groundwater,</li>
-  <li>soil type,</li>
+  <li>bioscore (suitability as a habitat for endangered species),</li>
+  <li>peatlands (wetland critical for preventing and mitigating the effects of climate change, preserving biodiversity, minimising flood risk, and ensuring safe drinking water),</li>
+  <li>hydrology (surface waterm nitrate vulnerable zones, drinking water zones, distance to streams, ),</li>
+  <li>soil index,</li>
   <li>and terrain.</li>
 </ul>
  This is then coupled with economic GIS data (ownership, land value, etc.). The end result is an interactive map that displays *exactly* which fields are the most suitable for nature restoration and the option to contact the owner.
