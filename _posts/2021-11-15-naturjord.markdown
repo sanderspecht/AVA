@@ -12,7 +12,7 @@ The marketplace [naturjord](https://naturjord.dk/) allows farmers and landowners
 
 Across the globe people increasingly buy land not to cultivate it, but to *restore and preserve its nature*. Some are millionaires, others are local groups, still others are foundations or environmental organisations. Common for them is the realization that nature is in crisis and that it is worth employing capital to save it.
 
-At the same time, farmers are interested in selling off the small parcels of land that are unsuitable for agriculture, e.g. carbon-rich lowland soils, wetlands, sandy soils, or slopes.
+At the same time, farmers are interested in selling off the small parcels of land that are unsuitable for agriculture, e.g. carbon-rich lowland soils, wetlands, sandy soils, or slopes. Coindidentaly, areas with low cultivation value often have high natural potential. In these areas, plants and animals will quickly appear completely without human intervention.
 
 When selling or buying land on [naturjord](https://naturjord.dk/) the parties enter into a legal agreement that ensures a significant and lasting improvement of the nature of the land in question.
 
