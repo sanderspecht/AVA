@@ -1,5 +1,5 @@
 ---
-title:  "Floating fields"
+title:  "Floating Fields"
 date:   2021-11-08 22:00:00 +0100
 categories: Wave energy converter
 keywords: wave energy converter
