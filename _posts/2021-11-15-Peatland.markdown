@@ -4,7 +4,7 @@ date: 2021-11-15 21:00:00 +0100
 categories: Marketplace
 keywords: a wetland estate agency
 permalink: /peatland
-image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Naturjord.png
+image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/vicki-hess.jpg
 ---
 The marketplace [naturjord](https://naturjord.dk/) allows farmers and landowners to easily sell or exchange parcels of unsuitable farmland with the aim of restoring natural processes and habitats.
 
