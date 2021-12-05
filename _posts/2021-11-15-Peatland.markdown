@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/vicki-
 ---
 The marketplace [Peatland](https://naturjord.dk/) allows farmers and landowners to easily sell or exchange parcels of unsuitable farmland with the aim of restoring natural processes and habitats.
 
-![Naturjord](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/vicki-hess.jpg)  
+![Naturjord](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/vicki-hess.jpg)
 
 Across the globe people increasingly buy land not to cultivate it, but to *restore and preserve its nature*. Some are philanthropists, others are environmental foundations, still others are local citizen groups. Common for them is the realization that nature is in crisis and that it is worth employing capital to save it.
 
