@@ -4,7 +4,9 @@ date:   2021-11-10 23:25:00 +0100
 categories: Architecture
 keywords: elevated camping
 permalink: /nest
-image: https://media.tourispo.com/images/ecu/entity/e_sight/sight_treetop-walk-neckertal-mogelsberg_n72881-156419-1_l.jpg
+image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/dimka-nevedimka.jpg
+
+
 ---
 Imagine a perforated platform that sits among the treetops, elevated on high stilts. A stairway leads to the platform, which measures for instance 4 x 5 metres and has a soft weather resistant top layer. Here, campers can pitch their own tent, by attaching special tent pegs into the holes in the perforated platform. Platforms like this can be placed among treetops in forests all over and provide camping-in-nature experiences for anyone with a tent. The design takes up little ground space and allows for both rain an sunlight to reach the undergrowth below the platform.
 
