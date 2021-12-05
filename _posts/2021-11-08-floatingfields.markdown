@@ -10,8 +10,7 @@ Imagine a floating field that can be used for saltwater agriculture (halophytes,
 
 The design consists of interconnected *equilateral triangular pyramids* (also known as regular tetrahedrons) that float on water and are moved by waves. The triangular design, by the way, provided the name for AVA tech!
 
-*Wave energy conversion*
-
+**Wave energy conversion**  
 The top of each pyramid has 3 out of 6 possible degrees of mechanical freedom: it can move up and down (elevating/heaving), tilt forward and backward (pitching); and pivot side to side (rolling). Being fixed to other pyramids, however, each pyramid top is prohibited from moving left and right (strafing/swaying); moving forward and backward (walking/surging); and from swiveling left and right (yawing)
 
 Every pyramid top is connected to all (maximum 6) neighbouring pyramid tops with two linear gear racks and a circular gear pinion between them.
@@ -44,5 +43,3 @@ The power is then transmitted into either batteries or a subsea cable to be used
 ![tooltip](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/IMG_20211107_165913.jpg)
 
 ![image tooltip](https://studio404.asia/wp-content/uploads/2020/08/sea.png)
-
-Similar idea: https://studio404.asia/floating-fields/

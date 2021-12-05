@@ -17,11 +17,11 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
         <!-- <span class="post-meta">{{ post.categories }}</span> -->
-        <span class="post-meta">{{ post.keywords }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          <span class="post-meta">{{ post.keywords }}</span>
           <a class="blog-roll-image" href="{{ post.url | relative_url }}">
             <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
           </a>

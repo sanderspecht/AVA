@@ -2,7 +2,7 @@
 title: "Peatland"
 date: 2021-11-15 21:00:00 +0100
 categories: Marketplace
-keywords: a wetland estate agency
+keywords: wetland estate agency
 permalink: /peatland
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/vicki-hess.jpg
 ---
