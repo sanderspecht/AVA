@@ -2,7 +2,7 @@
 title:  "Hive Park"
 date:   2021-11-08 22:00:00 +0100
 categories: architecture
-keywords: architecture / urban planning
+keywords: urban parking solution
 permalink: hivepark
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Wolfsburg.jpg
 ---

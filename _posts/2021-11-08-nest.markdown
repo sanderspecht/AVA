@@ -2,7 +2,7 @@
 title:  "Nest"
 date:   2021-11-10 23:25:00 +0100
 categories: Architecture
-keywords: architecture
+keywords: elevated camping
 permalink: /nest
 image: https://media.tourispo.com/images/ecu/entity/e_sight/sight_treetop-walk-neckertal-mogelsberg_n72881-156419-1_l.jpg
 ---
