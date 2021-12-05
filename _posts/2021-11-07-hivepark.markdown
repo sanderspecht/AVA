@@ -1,17 +1,17 @@
 ---
-title:  "Hive Park"
+title:  "Robotic parking"
 date:   2021-11-08 22:00:00 +0100
 categories: architecture
 keywords: urban parking solution
 permalink: hivepark
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/Wolfsburg.jpg
 ---
-Let's reclaim the streets by rethinking urban parking. Imagine if we set up parking towers in close proximity to people's homes. Here, a robotic arm automatically and securely parks or collects each car in a matter of seconds. Cars can also be recharged, if they are electric. To avoid collosal buildings that create shadows, most of the parking facility can be underground. The technical solution already exists in Wolkswagen's headquarters and factory in Wolfsburg. So, it is now a matter of fitting the technical solution into an urban environment and create a cost-efficient, consumer-centered financial setup that is attractive to citizens and urban decision makers.
+Let's reclaim the streets by rethinking urban parking. Imagine if we set up parking spots in close proximity to people's homes. Here, a robotic arm automatically and securely parks or collects each car underground in a matter of seconds. Cars can also be recharged while they are parked. To avoid collosal buildings that create shadows, most of the parking facility is underground. The technical solution already exists in Wolkswagen's headquarters and factory in Wolfsburg. So, it is simply a matter of fitting the technical solution into an urban environment and create a cost-efficient, consumer-centered financial setup that is attractive to citizens and urban decision makers.
 
 ![Autostadt Wolfsburg]({{ page.image | relative_url }})
 *Autostadt Wolfsburg*
 
-By greening the surface of each parking facility with a selv-sustained vertical garden, we create large natural air purifiers that are evenly distributed across our cities. This owes to the plants' ability to absorb toxins into their leaves and transmit them to the roots, where pollutants are transformed into a source of plant food.
+By greening the surface of each parking facility with a self-sustained vertical garden, the facilities becomes large natural air purifiers that are evenly distributed across cities.
 
 ![Vertical garden by Patric Blanc](https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/PatricBlanc.jpg)
-*Example of a vertical garden, here, by Patric Blanc*
+*Example of a vertical garden, here by Patric Blanc*
