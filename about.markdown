@@ -5,7 +5,7 @@ permalink: /about
 image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/noah-buscher-x8ZStukS2PM-unsplash.jpg
 ---
 
-**△▽△** is a design studio engaged in systemic nature-based solutions and regenerative business models.
+**AVA** is a design studio engaged in systemic nature-based solutions and regenerative business models.
 
 We believe that the ecological crises of our time represent an opportunity for humanity to embark on a trajectory of creativity, collective imagination, and sustainable prosperity.
 
