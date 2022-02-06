@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/sanderspecht/AVA/AVA/_assets/img/noah-b
 
 We believe that the ecological crises of our time represent an opportunity for humanity to embark on a trajectory of creativity, collective imagination, and sustainable prosperity.
 
-Our visions and solutions currently range from a market place for nature restoration to wave energy converters and architectural structures. There is no knowing what comes next.
+Our visions currently range from a market place for nature restoration to wave energy converters and architectural structures. There is no knowing what comes next.
 
 If you wish to join, comment, or learn more, please do not hesitatet to get in touch.
 
